@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Selamat Demisioner, Giselle Emmanuela Rumimper').split('')
+    const titles = ('Selamat Demisioner, Giselle Emanuella Rumimper').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
